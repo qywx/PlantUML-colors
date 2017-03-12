@@ -15,4 +15,4 @@ PlantUML colors in notes
 #### [Open-source license](LICENSE)
 
 ###### Update
-PlantUML authors has created [an article](http://plantuml.com/color) about colors.
+PlantUML authors have created [an article](http://plantuml.com/color) about colors.
